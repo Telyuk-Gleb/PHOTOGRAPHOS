@@ -1,0 +1,151 @@
+.container {
+  width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+h1 {
+  text-align: center;
+  font-family: "Oranienbaum", serif;
+  letter-spacing: 5.184px;
+  font-weight: 400;
+  font-size: 154px;
+  line-height: 128px;
+  margin-top: 41px;
+}
+.p1 {
+  font-family: "Oranienbaum";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 357px;
+  position: absolute;
+  top: 290px;
+  left: 25%;
+  right: 25%;
+}
+.firstimage {
+  height: 1494px;
+}
+.image1 {
+  text-align: center;
+  margin-top: 444px;
+}
+
+.p2 {
+  font-family: "Oranienbaum";
+  font-size: 56px;
+  line-height: 67px;
+  margin-left: 160px;
+  margin-right: 199px;
+}
+
+.p3{
+  font-family: "Rubik";
+  font-size: 28px;
+  line-height: 36px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.third-blok{
+  height: 784px;
+  margin-right: 160px;
+  margin-left: 744px;
+  margin-top: 95px;
+}
+.secondimage{
+  margin-top: 97px;
+  height: 700px;
+  text-align: center;
+}
+
+.p4 {
+  font-family: "Oranienbaum";
+  font-size: 56px;
+  line-height: 67px;
+  margin-left: 160px;
+  margin-right: 199px;
+  letter-spacing: 1.4px;
+}
+.flex-blok img{
+ width: 536px;
+ height: 400px;
+ margin-right: 24px;
+ margin-left: 24px; 
+ margin-bottom: 48px;
+ 
+ 
+}
+.flex-blok {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+
+li{
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  display: inline-block;
+  text-decoration: none;
+  border-bottom: 1px solid black;
+  height: 17px;
+  margin-right: 16px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  text-align: center;
+}
+
+.div-form{
+  margin-top: 35px;
+  margin-bottom: 100px;
+  font-family: "Rubik";
+  display: flex;
+  justify-content: center;
+  
+}
+h2{
+  font-family: "Rubik";
+  margin-top: 150px;
+  text-align: center;
+  font-size: 19px;
+}
+input{
+  display: block;
+  width: 250px;
+  height: 30px;
+  margin-bottom: 15px;
+  padding-left: 10px;
+  border: none;
+  border-bottom: 1px solid black ;
+}
+button{
+  font-family: "Rubik";
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 20px;
+  color: black;
+  background-color: white;
+  width: 110px;
+  height: 40px;
+  border: 1px solid black;
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
